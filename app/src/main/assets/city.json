@@ -1,0 +1,16 @@
+[
+  {
+    "name":"Dharwad",
+    "lat": "12.95",
+    "long": "76.639",
+    "temperature":"29",
+    "humidity": "74%"
+  },
+  {
+    "name":"Mysore",
+    "lat": "12.95",
+    "long": "76.639",
+    "temperature":"29",
+    "humidity": "74%"
+  }
+]
